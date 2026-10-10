@@ -98,6 +98,7 @@ body.mode-gelap {
 }
 
 body.mode-gelap header,
+body.mode-gelap header .btn-primary,
 body.mode-gelap .kartu-profil {
     background-color: #1e1e1e;
     color: #e0e0e0;
