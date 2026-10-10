@@ -5,9 +5,9 @@ tombolTema.addEventListener("click", function() {
     document.body.classList.toggle("mode-gelap");
     
     if (document.body.classList.contains("mode-gelap")) {
-        tombolTema.textContent = "☀️ Light Mode";
+        tombolTema.textContent = "Light Mode";
     } else {
-        tombolTema.textContent = "🌙 Dark Mode";
+        tombolTema.textContent = "Dark Mode";
     }
 });
 
